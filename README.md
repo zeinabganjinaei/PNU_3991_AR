@@ -4,7 +4,7 @@
 
 <div dir="rtl">
  
-### زینب گنجینایی
+### زینب گنجیانیی
  
 ---
 - [github](https://github.com/zeinabganjinaei)
