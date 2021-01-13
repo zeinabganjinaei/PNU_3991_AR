@@ -4,7 +4,7 @@
 
 <div dir="rtl">
  
-### میرمحمد کمالی
+### زینب گنجینایی
  
 ---
 - [github](https://github.com/zeinabganjinaei)
